@@ -1,6 +1,6 @@
-<h1 align="center">Привет👋</h1>
+# Привет👋 
 
-### Я Виктор, начинающий фронтенд-разработчик
+<p>Я Виктор, начинающий фронтенд-разработчик. </p>
 
 ### Языки:
 <p>
@@ -19,6 +19,7 @@
 ### Инструменты:
 <p>
 <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
