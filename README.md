@@ -1,6 +1,4 @@
-# Привет👋 
-
-<p>Я Виктор, начинающий фронтенд-разработчик.</p>
+<h1>Привет👋 Меня зовут Виктор, я фронтенд-разработчик из Сочи</h1>
 
 ### Языки:
 <p>
@@ -13,6 +11,7 @@
 ### Библиотеки:
 <p>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
+<img alt="React" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="max-width: 100%;">
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
